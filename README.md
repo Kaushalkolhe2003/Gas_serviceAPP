@@ -1,7 +1,7 @@
-## Gas Utility Service Application
-This Django-based application is designed for gas utility companies, providing a platform where customers can submit service requests, track their status, and manage their account information. Customer service representatives (CSR) are equipped with tools to manage customer requests effectively.
+# Gas Utility Service Application
+-This Django-based application is designed for gas utility companies, providing a platform where customers can submit service requests, track their status, and manage their account information. Customer service representatives (CSR) are equipped with tools to manage customer requests effectively.
 
-Features
+## Features
 Customer Portal:
 Submit service requests.
 Track the status of service requests.
